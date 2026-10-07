@@ -1,6 +1,6 @@
 # Prompt-Engineering
 Question 1: How Can Unlocking Creativity Lead to Breakthrough Innovations?
-Prompt
+Prompt 
 Explain how unlocking creativity within an organization can lead to breakthrough innovations. Identify three core mechanisms that connect creativity with innovation and provide one real-world example demonstrating the impact of creative thinking.
 
 Executed Output
